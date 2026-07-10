@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/AmalDak">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Amal" alt="Hello! I&#39;m Amal" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=550&height=44&lines=AI%20Engineer%20%7C%20Applied%20ML%20%20Engineer" alt="Typing headlines" />
+</p>
+
+
 # 💫 About Me:
 an AI engineer/Applied ML engineer who builds and experiments with NLP systems, time-series models, and LLM-based applications across different problem spaces.<br><br>
 
